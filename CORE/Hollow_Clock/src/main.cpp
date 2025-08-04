@@ -14,9 +14,10 @@ Stepper myStepper(stepsPerRevolution, in1, in2, in3, in4);
 
 void setup() {
   myStepper.setSpeed(1);
+  myStepper.Update_time(2,0);
 }
 
-void loop() {
-  myStepper.step(stepsPerRevolution);  // Quay đúng 1 vòng (360°)
-  //delay(2000);  // Dừng 2 giây
+void loop() 
+{
+  //myStepper.Update_time(2,0);
 }
