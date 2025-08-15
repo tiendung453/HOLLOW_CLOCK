@@ -37,3 +37,5 @@ Từ đó ta có:
 Góc quay động cơ = 6° (kim phút) × 7.5 (tỉ số truyền) = 45°
 Mỗi bước động cơ = 360° / 2048 ≈ 0.1758°
 Số bước cần = 45 / 0.1758 ≈ 256 bước
+
+## Chú ý nếu cấu hình thời gian là sau 6h thì đồng hồ setup ở chế độ 6:00
